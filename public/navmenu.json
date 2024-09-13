@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Home",
+    "link": "/"
+  },
+  {
+    "name": "View",
+    "link": "view"
+  },
+  {
+    "name": "Profile",
+    "link": "profile"
+  },
+  {
+    "name": "About",
+    "link": "about"
+  },
+  {
+    "name": "Contact Us",
+    "link": "contact"
+  }
+]
