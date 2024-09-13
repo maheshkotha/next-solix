@@ -1,0 +1,26 @@
+.bannerContainer {
+  height: 80vh;
+  border-radius: 20px;
+  background-image: linear-gradient(30deg, #fbeaf7, #fcfbf4);
+  padding: 0 1rem;
+  margin: 0 5%;
+}
+
+.bannerContainer__content {
+  display: flex;
+  height: 70%;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.bannerContainer__bannerBottom {
+  display: block;
+}
+
+
+@media screen and (max-width: 1024px) {
+  .bannerContainer__content {
+    height: 60%;
+    flex-direction: column-reverse;
+  }
+}
